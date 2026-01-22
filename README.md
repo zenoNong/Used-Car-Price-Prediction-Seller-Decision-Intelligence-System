@@ -131,6 +131,7 @@ Key insights:
 * Premium cars show higher pricing variance
 
 📌 PLOTS
+
 ![](images/engine_power_vs_price.png)
 ![](images/fuel_type_vs_price.png)
 ![](images/km_driven_VS_selling_price.png)
