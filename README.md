@@ -74,6 +74,9 @@ Used-Car-Price-Prediction-Seller-Decision-Intelligence-System/
 │       ├── cleaned_used_cars.csv
 │       └── featured_used_cars.csv
 │
+│
+├── images/
+│
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_eda.ipynb
@@ -128,8 +131,14 @@ Key insights:
 * Premium cars show higher pricing variance
 
 📌 PLOTS
+![](images/engine_power_vs_price.png)
+![](images/fuel_type_vs_price.png)
+![](images/km_driven_VS_selling_price.png)
+![](images/seller_type_vs_price.png)
+![](images/top_brand_vs_selling_price.png)
+![](images/transmission_type_vs_price.png)
+![](images/heatmap.png)
 
-![Car dataset sample](images/download (1).png)
 
 
 ---
@@ -201,7 +210,6 @@ Sample results:
 | High          | ~10% |
 | Premium       | ~11% |
 
-📌 *Add error distribution & bucket MAPE plots here*
 
 ---
 
@@ -222,7 +230,9 @@ This enables:
 * Seller-facing justification
 * Internal audit & trust
 
-📌 *Add SHAP summary plot & force plot images here*
+📌 SHAP SUMMARY
+![](<images/SHAP OUTPUT.png>)
+![](images/SHAP.png)
 
 ---
 
@@ -304,9 +314,6 @@ Sample response:
 * ~85–90% predictions auto-quotable
 * ~10–15% routed to manual review
 * Explainable, auditable decisions
-
-📌 *Add final results summary plots here*
-
 ---
 
 ## 🚀 How to Run
