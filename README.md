@@ -61,9 +61,6 @@ Decision Intelligence Layer
    ↓
 FastAPI Deployment
 ```
-
-📌 *Add architecture diagram image here*
-
 ---
 
 ## 📂 Project Structure
@@ -130,7 +127,10 @@ Key insights:
 * Automatic transmission & popular brands command premiums
 * Premium cars show higher pricing variance
 
-📌 *Add EDA plots here: price vs age, km vs price, brand boxplots*
+📌 PLOTS
+
+![Car dataset sample](images/download (1).png)
+
 
 ---
 
