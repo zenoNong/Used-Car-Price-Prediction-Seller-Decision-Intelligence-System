@@ -232,6 +232,7 @@ This enables:
 * Internal audit & trust
 
 📌 SHAP SUMMARY
+
 ![](<images/SHAP OUTPUT.png>)
 ![](images/SHAP.png)
 
